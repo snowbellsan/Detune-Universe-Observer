@@ -7,7 +7,7 @@ This interactive dashboard lets you **tune the "detuning rate"** — the degree 
 
 ---
 
-## 🌌 [Live Demo]([https://your-username.github.io/detune-universe-observe](https://github.com/snowbellsan/Detune-Universe-Observer)
+## 🌌 [Live Demo]([https://github.com/snowbellsan/Detune-Universe-Observer])
 
 > Just open `index.html` in any browser.  
 > No install. No server. No tracking. No escape.
