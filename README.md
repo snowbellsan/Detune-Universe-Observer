@@ -86,6 +86,13 @@ This is **speculative archaeology** — digging for the fingerprints of a budget
 
 ---
 
+## Author
+
+**Jack**    ( https://x.com/Jackpot_jack )  
+*Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
+
+---
+
 ## Local Development
 
 ```bash
